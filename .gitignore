@@ -14,10 +14,10 @@ out/
 *.tsbuildinfo
 
 # Hardhat
-cache/
-artifacts/
-typechain/
-typechain-types/
+/cache/
+/artifacts/
+/typechain/
+/typechain-types/
 coverage/
 coverage.json
 gas-reporter.txt
